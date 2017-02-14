@@ -1,0 +1,1 @@
+﻿exports.mailerClient = { "sendGrid": 0, "mailGun": 1 };
