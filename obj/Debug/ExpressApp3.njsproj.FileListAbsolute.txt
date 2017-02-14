@@ -1,0 +1,2 @@
+D:\Mailer Service\EmailService\obj\Debug\ExpressApp3.njsprojResolveAssemblyReference.cache
+D:\Mailer Service\EmailService\bin\Microsoft.NodejsTools.WebRole.dll
