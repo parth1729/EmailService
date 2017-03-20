@@ -7,7 +7,7 @@ router.get('/', function (req, res) {
     res.render('index', { title: 'Express' });
 });
 
-/* Post Mail information */
+/* Post Mail information.*/
 router.post('/emailInfo', function (req, res) {
     // var test = JSON.parse(req.body);
     mailerService.emailSendGrid(req.body, function (err, data) {
