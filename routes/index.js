@@ -2,7 +2,7 @@
 var router = express.Router();
 var mailerService = require('../services/mailerService');
 
-/* GET home page. */
+/* GET home page test. */
 router.get('/', function (req, res) {
     res.render('index', { title: 'Express' });
 });
